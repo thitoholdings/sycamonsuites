@@ -3514,6 +3514,7 @@ dl {
   border-radius: 4px;
   box-shadow: #2b2b2b 0 0 10px inset;
   animation: neon 3s infinite ease;
+  top: -13px;
 }
 
 .loader .hotel-sign span {
